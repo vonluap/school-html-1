@@ -1,2 +1,2 @@
 # school-html-1
-school make a website on html and css  
+school project on making a website on html and css  
